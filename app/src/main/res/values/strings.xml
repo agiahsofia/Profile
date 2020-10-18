@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="agiah_s_profile">Agiah\'s Profile</string>
+    <string name="about_agiah_sofia">About Agiah Sofia</string>
+    <string name="agiah_sofia">Agiah Sofia</string>
+    <string name="friendly">Friendly</string>
+    <string name="creative">Creative</string>
+    <string name="active">Active</string>
+    <string name="next">NEXT</string>
+    <string name="skills">-Writing\n -Editing\n -Copyrighting\n -Photography\n -Design</string>
+    <string name="ocehan">Hallo, every body! My name is Agiah Sofia and people call me Sofi. I am a girl born in Denpasar and raised in a few places. Hey, I am a brown skinned girl and very friendly! Let\'s be friends with me and share positive energy!</string>
+    <string name="sofi_s_skills">Sofi\'s Skills</string>
+</resources>
